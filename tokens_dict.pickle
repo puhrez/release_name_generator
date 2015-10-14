@@ -1,0 +1,243 @@
+(dp1
+S'prefixes'
+p2
+(lp3
+S'Combine'
+p4
+aS'HECU'
+p5
+aS'Xen'
+p6
+aS'Pit'
+p7
+aS'Antlion'
+p8
+aS'Shield'
+p9
+aS'Panther'
+p10
+aS'Poison'
+p11
+aS'Shock'
+p12
+aS'Tripod'
+p13
+aS'Standard'
+p14
+aS'Alien'
+p15
+aS'Sand'
+p16
+aS'Robot'
+p17
+aS'Overwatch'
+p18
+asS'used'
+p19
+c__builtin__
+set
+p20
+((lp21
+S'combine-glados'
+p22
+aS'tripod-sacktick'
+p23
+aS'pit-hazardous-environment-combat-unit'
+p24
+aS'panther-stampeder'
+p25
+atRp26
+sS'names'
+p27
+(lp28
+S'Dropship'
+p29
+aS'Crab Synth'
+p30
+aS'Combine Super Soldier'
+p31
+aS'Headcrab'
+p32
+aS'Sniper'
+p33
+aS'Zombie'
+p34
+aS'Stalker'
+p35
+aS'Charger'
+p36
+aS'Stampeder'
+p37
+aS'Bullsquid'
+p38
+aS'Wheatley'
+p39
+aS'Synth'
+p40
+aS'Voltigore'
+p41
+aS'Medic'
+p42
+aS'Alien Aircraft'
+p43
+aS'Combine Synth Elite Soldier'
+p44
+aS'Fast Zombie'
+p45
+aS'Hazardous Environment Combat Unit'
+p46
+aS'Science'
+p47
+aS'Wasteland Scanner'
+p48
+aS'Antlion Guard'
+p49
+aS'Assassin'
+p50
+aS'Guardian'
+p51
+aS'Human Sergeant'
+p52
+aS'Advisor Pod'
+p53
+aS'Ichthyosaur'
+p54
+aS'Trooper'
+p55
+aS'Flocking Floater'
+p56
+aS'Helena Mossman'
+p57
+aS'Headcrab'
+p58
+aS'Stukabat'
+p59
+aS'Consul'
+p60
+aS'Vortigaunt'
+p61
+aS'Archer'
+p62
+aS'Hunter'
+p63
+aS'Antlion Worker'
+p64
+aS'Antlion Soldier'
+p65
+aS'Gargantua'
+p66
+aS'Zombie'
+p67
+aS'Alien Combine Soldier'
+p68
+aS'GLaDOS'
+p69
+aS'Civil Protection'
+p70
+aS'HECU Engineer'
+p71
+aS'City Scanner'
+p72
+aS'Turret'
+p73
+aS'Alien Fauna'
+p74
+aS'Eye'
+p75
+aS'Combine Gunship'
+p76
+aS'Mr. Friendly'
+p77
+aS'Hydra'
+p78
+aS'Sacktick'
+p79
+aS'Snapbug'
+p80
+aS'Gene Worm'
+p81
+aS'Houndeye'
+p82
+aS'Snark'
+p83
+aS'Barnacle'
+p84
+aS'Combot'
+p85
+aS'Scanner'
+p86
+aS'Overwatch Soldier'
+p87
+aS'HECU Sniper'
+p88
+aS'Aperture'
+p89
+aS'Poison Headcrab'
+p90
+aS'Zombine'
+p91
+aS'Judith Mossman'
+p92
+aS'Gonome'
+p93
+aS'Combine Guard'
+p94
+aS'Nihilanth'
+p95
+aS'Fast Headcrab'
+p96
+aS'Unidentified cut Synth'
+p97
+aS'Conscripts'
+p98
+aS'Leech'
+p99
+aS'Sentry'
+p100
+aS'Alien Grunt'
+p101
+aS'Combine Advisor'
+p102
+aS'Combine Assassin'
+p103
+aS'Standard Zombie'
+p104
+aS'Gonarch'
+p105
+aS'Antlion Grub'
+p106
+aS'Drone'
+p107
+aS'Pit Worm'
+p108
+aS'Mortar Synth'
+p109
+aS'Hopper'
+p110
+aS'Black Ops'
+p111
+aS'Kingpin'
+p112
+aS'Tentacle'
+p113
+aS'Overwatch Elite'
+p114
+aS'Civil Protection Guard'
+p115
+aS'Particle Storm'
+p116
+aS'Strider'
+p117
+aS'Grunt'
+p118
+aS'Antlion King'
+p119
+aS'Wallace Breen'
+p120
+aS'Cremator'
+p121
+aS'Barnacle'
+p122
+aS'Combine'
+p123
+as.

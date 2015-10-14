@@ -1,0 +1,89 @@
+Advisor Pod
+Alien Aircraft
+Soldier
+Fauna
+Grunt
+Grub
+Guard
+Guardian
+King
+Worker
+Aperture
+Science
+Sentry
+Turret
+Archer
+Barnacle
+Black Ops
+Wallace Breen
+Bullsquid
+Charger
+Scanner
+Protection
+Advisor
+Assassin
+Dropship
+Guard
+Gunship
+Super Soldier
+Synth Elite Soldier
+Combot
+Conscripts
+Consul
+Crab Synth
+Cremator
+Fast Headcrab
+Fast Zombie
+Flocking Floater
+Gargantua
+Gene Worm
+GLaDOS
+Gonarch
+Gonome
+Hazardous Environment Combat Unit
+Headcrab
+HECU Engineer
+Medic
+HECU Sniper
+Houndeye
+Human Sergeant
+Hunter
+Hydra
+Ichthyosaur
+Kingpin
+Leech
+Mortar Synth
+Helena Mossman
+Judith Mossman
+Mr. Friendly
+Nihilanth
+Elite
+Sniper
+Eye
+Particle Storm
+Drone
+Pit Worm
+Headcrab
+Zombie
+Grunt
+Sacktick
+Barnacle
+Scanner
+Trooper
+Snapbug
+Snark
+Stalker
+Stampeder
+Headcrab
+Zombie
+Strider
+Stukabat
+Synth
+Tentacle
+Hopper
+Voltigore
+Vortigaunt
+Wasteland Scanner
+Wheatley
+Zombie
+Zombine
