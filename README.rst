@@ -38,4 +38,7 @@ How To Use:
     Waiting to get fed
 
 
-
+Todo:
+-----
+* use (or make :)) ) POS tagger 
+    * this would enable the user to feed text, instead of 'subsets', more advance use could let them  set probabilities of POS distribution in the output.
